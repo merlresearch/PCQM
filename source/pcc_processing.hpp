@@ -1,6 +1,6 @@
-// Copyright (C) 2017, 2023 Mitsubishi Electric Research Laboratories (MERL)
+// Copyright (C) 2017, 2023, 2025 Mitsubishi Electric Research Laboratories (MERL)
 //
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: BSD-3-Clause
 
 #ifndef PCC_PROCESSING_HPP
 #define PCC_PROCESSING_HPP

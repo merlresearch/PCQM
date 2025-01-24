@@ -1,7 +1,7 @@
 <!--
-Copyright (C) 2017, 2023 Mitsubishi Electric Research Laboratories (MERL)
+Copyright (C) 2017, 2023, 2025 Mitsubishi Electric Research Laboratories (MERL)
 
-SPDX-License-Identifier: AGPL-3.0-or-later
+SPDX-License-Identifier: BSD-3-Clause
 -->
 
 # Point Cloud Quality Metric
@@ -66,14 +66,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for our policy on contributions.
 
 ## License
 
-Released under `AGPL-3.0-or-later` license, as found in the [LICENSE.md](LICENSE.md) file.
+Released under `BSD-3-Clause` license, as found in the [LICENSE.md](LICENSE.md) file.
 
 All files, except as noted below:
 
 ```
-Copyright (C) 2017, 2023 Mitsubishi Electric Research Laboratories (MERL).
+Copyright (C) 2017, 2023, 2025 Mitsubishi Electric Research Laboratories (MERL).
 
-SPDX-License-Identifier: AGPL-3.0-or-later
+SPDX-License-Identifier: BSD-3-Clause
 ```
 
 `source/nanoflann/KDTreeVectorOfVectorsAdaptor.h` (see [BSD-2-Clause.txt](BSD-2-Clause.txt)):
